@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.a6815c2d.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.7a2f643b.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.7a2f643b.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.ad2b8bcf.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.ad2b8bcf.js.map",
-    "static/css/2.081f420c.chunk.css": "/React-Portfolio/static/css/2.081f420c.chunk.css",
-    "static/js/2.77d5e260.chunk.js": "/React-Portfolio/static/js/2.77d5e260.chunk.js",
-    "static/js/2.77d5e260.chunk.js.map": "/React-Portfolio/static/js/2.77d5e260.chunk.js.map",
-    "static/js/3.661533a5.chunk.js": "/React-Portfolio/static/js/3.661533a5.chunk.js",
-    "static/js/3.661533a5.chunk.js.map": "/React-Portfolio/static/js/3.661533a5.chunk.js.map",
-    "index.html": "/React-Portfolio/index.html",
-    "static/css/2.081f420c.chunk.css.map": "/React-Portfolio/static/css/2.081f420c.chunk.css.map",
-    "static/css/main.a6815c2d.chunk.css.map": "/React-Portfolio/static/css/main.a6815c2d.chunk.css.map",
-    "static/js/2.77d5e260.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.77d5e260.chunk.js.LICENSE.txt"
+    "main.css": "/shaima-portfolio/static/css/main.a6815c2d.chunk.css",
+    "main.js": "/shaima-portfolio/static/js/main.176b06fd.chunk.js",
+    "main.js.map": "/shaima-portfolio/static/js/main.176b06fd.chunk.js.map",
+    "runtime-main.js": "/shaima-portfolio/static/js/runtime-main.e939d5de.js",
+    "runtime-main.js.map": "/shaima-portfolio/static/js/runtime-main.e939d5de.js.map",
+    "static/css/2.081f420c.chunk.css": "/shaima-portfolio/static/css/2.081f420c.chunk.css",
+    "static/js/2.f04f2d07.chunk.js": "/shaima-portfolio/static/js/2.f04f2d07.chunk.js",
+    "static/js/2.f04f2d07.chunk.js.map": "/shaima-portfolio/static/js/2.f04f2d07.chunk.js.map",
+    "static/js/3.704dcee2.chunk.js": "/shaima-portfolio/static/js/3.704dcee2.chunk.js",
+    "static/js/3.704dcee2.chunk.js.map": "/shaima-portfolio/static/js/3.704dcee2.chunk.js.map",
+    "index.html": "/shaima-portfolio/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/shaima-portfolio/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.a6815c2d.chunk.css.map": "/shaima-portfolio/static/css/main.a6815c2d.chunk.css.map",
+    "static/js/2.f04f2d07.chunk.js.LICENSE.txt": "/shaima-portfolio/static/js/2.f04f2d07.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad2b8bcf.js",
+    "static/js/runtime-main.e939d5de.js",
     "static/css/2.081f420c.chunk.css",
-    "static/js/2.77d5e260.chunk.js",
+    "static/js/2.f04f2d07.chunk.js",
     "static/css/main.a6815c2d.chunk.css",
-    "static/js/main.7a2f643b.chunk.js"
+    "static/js/main.176b06fd.chunk.js"
   ]
 }
