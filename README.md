@@ -47,8 +47,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 # screenshots
 ![screenshot](src/assets/images/5gdm9m.gif)
-![screenshot]()
-![screenshot]()
+
 
 
 ## Links
@@ -58,7 +57,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 [Resume](src/assets/images/Resume_2.pdf)
 
-[Portfolio]()
+[Portfolio](https://shaimajobran.github.io/shaima-portfolio/)
 
 ## Contact
 If you have any questions about the repo, contact me at [shaimajobran](https://github.com/shaimajobran).
