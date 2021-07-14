@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shaima-portfolio/static/css/main.a6815c2d.chunk.css",
-    "main.js": "/shaima-portfolio/static/js/main.176b06fd.chunk.js",
-    "main.js.map": "/shaima-portfolio/static/js/main.176b06fd.chunk.js.map",
+    "main.js": "/shaima-portfolio/static/js/main.2d1c165d.chunk.js",
+    "main.js.map": "/shaima-portfolio/static/js/main.2d1c165d.chunk.js.map",
     "runtime-main.js": "/shaima-portfolio/static/js/runtime-main.e939d5de.js",
     "runtime-main.js.map": "/shaima-portfolio/static/js/runtime-main.e939d5de.js.map",
     "static/css/2.081f420c.chunk.css": "/shaima-portfolio/static/css/2.081f420c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.081f420c.chunk.css",
     "static/js/2.f04f2d07.chunk.js",
     "static/css/main.a6815c2d.chunk.css",
-    "static/js/main.176b06fd.chunk.js"
+    "static/js/main.2d1c165d.chunk.js"
   ]
 }
