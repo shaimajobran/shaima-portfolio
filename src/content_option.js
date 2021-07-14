@@ -85,7 +85,7 @@ const contactConfig = {
     YOUR_EMAIL: "shaimajobran22@gmail.com",
     YOUR_FONE: "(410)428-1438",
     description: "",
-    YOUR_SERVICE_ID: "service_id",
+    YOUR_SERVICE_ID: "service_id",         //sending msg not working
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
 };
@@ -94,11 +94,9 @@ const socialprofils = {
     github: "https://github.com/shaimajobran",
     linkedin: "https://www.linkedin.com/in/shaima-jobran-323472172/",
     twitter: "https://twitter.com/shaimajobran",
-    // resume:"file:///C:/Users/shaim/Downloads/Resume_2.docx.pdf",
+     resume:"https://drive.google.com/file/d/1I2Wxl2LuVhVAtxZ4fwCYjvA2a0r0txZl/view?usp=sharing",
 };
-const footer ={
-    
-}
+
 export {
     meta,
     dataabout,
@@ -109,5 +107,4 @@ export {
     contactConfig,
     socialprofils,
     logotext,
-    footer,
 };
