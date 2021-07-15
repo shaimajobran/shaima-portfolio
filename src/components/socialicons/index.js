@@ -28,7 +28,7 @@ export default function Socialicons(params) {
           </a>
         </li>
       </ul>
-      <p>Follow Me</p>
+      <p>Take a Look</p>
     </div>
   );
 }
