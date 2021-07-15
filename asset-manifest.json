@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/shaima-portfolio/static/css/main.a6815c2d.chunk.css",
-    "main.js": "/shaima-portfolio/static/js/main.2d1c165d.chunk.js",
-    "main.js.map": "/shaima-portfolio/static/js/main.2d1c165d.chunk.js.map",
+    "main.js": "/shaima-portfolio/static/js/main.e60224da.chunk.js",
+    "main.js.map": "/shaima-portfolio/static/js/main.e60224da.chunk.js.map",
     "runtime-main.js": "/shaima-portfolio/static/js/runtime-main.e939d5de.js",
     "runtime-main.js.map": "/shaima-portfolio/static/js/runtime-main.e939d5de.js.map",
     "static/css/2.081f420c.chunk.css": "/shaima-portfolio/static/css/2.081f420c.chunk.css",
-    "static/js/2.f04f2d07.chunk.js": "/shaima-portfolio/static/js/2.f04f2d07.chunk.js",
-    "static/js/2.f04f2d07.chunk.js.map": "/shaima-portfolio/static/js/2.f04f2d07.chunk.js.map",
+    "static/js/2.eb4a1687.chunk.js": "/shaima-portfolio/static/js/2.eb4a1687.chunk.js",
+    "static/js/2.eb4a1687.chunk.js.map": "/shaima-portfolio/static/js/2.eb4a1687.chunk.js.map",
     "static/js/3.704dcee2.chunk.js": "/shaima-portfolio/static/js/3.704dcee2.chunk.js",
     "static/js/3.704dcee2.chunk.js.map": "/shaima-portfolio/static/js/3.704dcee2.chunk.js.map",
     "index.html": "/shaima-portfolio/index.html",
     "static/css/2.081f420c.chunk.css.map": "/shaima-portfolio/static/css/2.081f420c.chunk.css.map",
     "static/css/main.a6815c2d.chunk.css.map": "/shaima-portfolio/static/css/main.a6815c2d.chunk.css.map",
-    "static/js/2.f04f2d07.chunk.js.LICENSE.txt": "/shaima-portfolio/static/js/2.f04f2d07.chunk.js.LICENSE.txt"
+    "static/js/2.eb4a1687.chunk.js.LICENSE.txt": "/shaima-portfolio/static/js/2.eb4a1687.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e939d5de.js",
     "static/css/2.081f420c.chunk.css",
-    "static/js/2.f04f2d07.chunk.js",
+    "static/js/2.eb4a1687.chunk.js",
     "static/css/main.a6815c2d.chunk.css",
-    "static/js/main.2d1c165d.chunk.js"
+    "static/js/main.e60224da.chunk.js"
   ]
 }
