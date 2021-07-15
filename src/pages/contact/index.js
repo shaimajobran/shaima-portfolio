@@ -123,7 +123,7 @@ export default function ContactUs() {
                     required
                     onChange={handleChange}
                   />
-                </Col>
+                </Col>                                  //I had to delete the form because I need to build backEnd to make it work 
                 <Col lg="6" className="form-group">
                   <input
                     className="form-control rounded-0"

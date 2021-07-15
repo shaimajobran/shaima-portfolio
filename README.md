@@ -53,9 +53,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Links
 [linkedIn](https://www.linkedin.com/in/shaima-jobran-323472172/)
 
-[Github](https://github.com/shaimajobran/React-Portfoilo/)
+[Github](https://github.com/shaimajobran/shaima-portfolio)
 
-[Resume](src/assets/images/Resume_2.pdf)
+[Resume](https://drive.google.com/file/d/1I2Wxl2LuVhVAtxZ4fwCYjvA2a0r0txZl/view?usp=sharing)
 
 [Portfolio](https://shaimajobran.github.io/shaima-portfolio/)
 
