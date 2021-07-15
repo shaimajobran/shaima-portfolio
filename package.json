@@ -1,8 +1,8 @@
 {
-    "name": "shaima-portfolio",
+    "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://shaimajobran.github.io/shaima-portfolio",
+    "homepage": "https://shaimajobran.github.io/react-portfolio",
     "dependencies": {
         "@react-icons/all-files": "^4.1.0",
         "@steveeeie/react-page-transition": "^1.2.1",
