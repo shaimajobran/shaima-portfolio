@@ -94,7 +94,7 @@ const socialprofils = {
     github: "https://github.com/shaimajobran",
     linkedin: "https://www.linkedin.com/in/shaima-jobran-323472172/",
     twitter: "https://twitter.com/shaimajobran",
-     resume:"https://drive.google.com/file/d/1I2Wxl2LuVhVAtxZ4fwCYjvA2a0r0txZl/view?usp=sharing",
+     resume:" https://drive.google.com/file/d/107eM1wVicKGnXg7egzgGb2ocPoTQAbhk/view?usp=sharing",
 };
 
 export {
