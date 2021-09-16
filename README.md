@@ -55,7 +55,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 [Github](https://github.com/shaimajobran/shaima-portfolio)
 
-[Resume](https://drive.google.com/file/d/1I2Wxl2LuVhVAtxZ4fwCYjvA2a0r0txZl/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/107eM1wVicKGnXg7egzgGb2ocPoTQAbhk/view?usp=sharing)
 
 [Portfolio](https://shaimajobran.github.io/shaima-portfolio/)
 
